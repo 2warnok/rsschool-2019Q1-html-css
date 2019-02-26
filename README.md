@@ -1,2 +1,2 @@
 # Litvinenko Yaroslav
-# HTML CSS Basics: https://www.codecademy.com/users/2warnok/achievements
+HTML CSS Basics: https://www.codecademy.com/users/2warnok/achievements
